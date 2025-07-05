@@ -1,1 +1,1 @@
-apt-get install mc
+apt install -y mc

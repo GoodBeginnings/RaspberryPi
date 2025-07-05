@@ -1,3 +1,3 @@
 rpi-eeprom-update
-apt install rpi-eeprom
+apt install -y rpi-eeprom
 rpi-eeprom-update -a
